@@ -4,10 +4,230 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8ad7313-1c57-4350-ae8f-02146d3af267" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/DataAbstractionAssignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataAbstractionAssignment/DataAbstractionAssignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javafx-maven/javafx-maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javafx-maven/javafx-maven.iml" afterDir="false" />
+    <list default="true" id="a59d0178-34dc-4d3a-b1f0-382adc4d9dae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstraction/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstraction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAbstractionAssignment/DataAbstractionAssignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions Assignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions Assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions Assignment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions Assignment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions Assignment/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/artifacts/FriendsBook_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendsBook/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/artifacts/GUIDemo_master_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIDemo-master/GUIDemo-master/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/artifacts/GUILesson_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson 2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/artifacts/GUILesson_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUILesson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/artifacts/GameOfChance_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_base_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_controls_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_ea_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/libraries/javafx_swt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfChance/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotDogStand/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotDogStand/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotDogStand/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotDogStand/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/artifacts/JavaFXHelloWorld_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFXHelloWorld/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieTheatre/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieTheatre/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieTheatre/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieTheatre/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectNumber1/.idea/libraries/junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectNumber1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectNumber1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectNumber1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectNumber1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Encryption/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Encryption/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Encryption/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Encryption/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwiceAsOld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwiceAsOld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwiceAsOld/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwiceAsOld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2 Tests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2 Tests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2 Tests/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2 Tests/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Arrays/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Example/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit3Example/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SchoolProject (3).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/SchoolProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/out/production/SchoolProject/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/out/production/SchoolProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/out/production/SchoolProject/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/out/production/SchoolProject/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/out/production/SchoolProject/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/src/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/src/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/SchoolProject/src/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/out/production/SchoolProject/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/out/production/SchoolProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/out/production/SchoolProject/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/out/production/SchoolProject/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolProject/out/production/SchoolProject/Teacher.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,17 +237,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="249tkKYlbOSOBjrS1AMWKa6jlMb" />
+  <component name="ProjectId" id="1yJlEKXKQyJYjH6NOyMhhNB3VrP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,20 +246,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GameOfChance" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="consents" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b8ad7313-1c57-4350-ae8f-02146d3af267" name="Changes" comment="" />
-      <created>1643054771686</created>
+      <changelist id="a59d0178-34dc-4d3a-b1f0-382adc4d9dae" name="Changes" comment="" />
+      <created>1631977461975</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643054771686</updated>
+      <updated>1631977461975</updated>
     </task>
     <servers />
   </component>
